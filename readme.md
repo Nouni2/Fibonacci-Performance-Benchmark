@@ -1,5 +1,7 @@
 # Fibonacci Performance Benchmark
 
+![Faceted Histograms](results/faceted_histograms.png)
+
 ## Overview
 
 This project aims to compare the performance of different programming languages in computing large Fibonacci numbers within a fixed time limit. The languages included in this benchmark are:
